@@ -2,4 +2,4 @@
 
 ### Certificate: 
 
-![Certificate](Certificate/DataAnalysis.PNG)
+![Certificate](Certificate/DataAnalysiswithPython.PNG)
